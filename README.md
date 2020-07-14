@@ -17,4 +17,6 @@ $ serverless invoke -f hello-env-jiro -l
 START RequestId: 8831e4d8-0f72-4aa7-a80a-3aad16ac045d Version: $LATEST
 END RequestId: 8831e4d8-0f72-4aa7-a80a-3aad16ac045d
 REPORT RequestId: 8831e4d8-0f72-4aa7-a80a-3aad16ac045d	Duration: 0.26 ms	Billed Duration: 100 ms	Memory Size: 1024 MB	Max Memory Used: 35 MB
-``` 
+
+$ serverless remove
+```
